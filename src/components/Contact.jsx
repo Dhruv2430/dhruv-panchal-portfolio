@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Title from './Title'
 
 const Contact = () => {
-  const contactEmail = 'dhruvpanchal.dev@gmail.com'
+  const contactEmail = 'dhruvpanchal897@gmail.com'
 
   const [formData, setFormData] = useState({
     name: '',
@@ -54,7 +54,7 @@ const Contact = () => {
                   href='tel:+919000000000'
                   className='text-[#1D1D1F] dark:text-[#F5F5F7] font-medium hover:text-[#0071E3] dark:hover:text-[#0A84FF] transition-colors duration-300'
                 >
-                  +91 90000 00000
+                  +91 9428151425
                 </a>
               </div>
               <div className='bg-[#FFFFFF] dark:bg-[#1C1C1E] border border-[#D2D2D7] dark:border-[#3A3A3C] rounded-2xl p-6 transition-all duration-300'>

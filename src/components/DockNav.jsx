@@ -38,8 +38,8 @@ const DockNav = () => {
   ];
 
   const socialItems = [
-    { icon: Github, label: "GitHub", href: "https://github.com", external: true },
-    { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", external: true },
+    { icon: Github, label: "GitHub", href: "https://github.com/Dhruv2430", external: true },
+    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/dhruvpanchal-dev/", external: true },
     { icon: Instagram, label: "Instagram", href: "https://instagram.com", external: true },
   ];
 
